@@ -21,11 +21,10 @@
       <li>1 non-numeric attribute</li>
   </ul>
   <li>Create a hierarchy (classification) of objects of the selected subject, in the form of a tree with a minimum height of 4</li>
+  <li>Select proximity measures for objects</li>
+  <li>Implement a content-oriented recommendation system</li>
+  <li>Implement filters by object attributes. Formation of data sampling step by step</li>
+  <li>Develop questions and scenarios for dialogue systems</li>
+  <li>Implementation of a dialogue system that interacts with the user in natural language (Russian) within a given topic with a limited set of conversation scenarios</li>
 </ul>
-<li>Select proximity measures for objects</li>
-<li>Implement a content-oriented recommendation system</li>
-<li>Implement filters by object attributes. Formation of data sampling step by step</li>
-<li>Develop questions and scenarios for dialogue systems</li>
-<li>Implementation of a dialogue system that interacts with the user in natural language (Russian) within a given topic with a limited set of conversation scenarios</li>
-
 
