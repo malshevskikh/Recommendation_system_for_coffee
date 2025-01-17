@@ -108,30 +108,19 @@
     <li>What coffee is not medium?</li>
     <li>What coffee is not light, dark roast?</li>
     <li>What coffee is not light and dark roast?</li>
+    <li>What coffee is not light, medium roast?</li>
+    <li>What coffee is not light and medium roast?</li>
+    <li>What coffee is not medium, dark roast?</li>
+    <li>What coffee is not medium and dark roast?</li>
+    <li>What coffee is not medium, light roast?</li>
+    <li>What coffee is not medium and light roast?</li>
+    <li>What coffee is not dark, medium roast?</li>
+    <li>What coffee is not dark and medium roast? What coffee is not dark, light roast?</li>
+    <li>What coffee is not dark and light roast?</li>
+    <li>What coffee is medium and dark roast?</li>
   </ul>
+  <li>Questions by country (Вопросы про страны):</li>
 </ul>
-1. Roasting Questions
-
-
-
-What coffee is not dark?
-What coffee is not light?
-What coffee is not medium?
-What coffee is not light, dark roast?
-What coffee is not light and dark roast?
-
-What coffee is not light, medium roast?
-
-What coffee is not light and medium roast?
-
-What coffee is not medium, dark roast?
-What coffee is not medium and dark roast?
-What coffee is not medium, light roast?
-What coffee is not medium and light roast?
-What coffee is not dark, medium roast?
-What coffee is not dark and medium roast? What coffee is not dark, light roast?
-What coffee is not dark and light roast?
-What coffee is medium and dark roast?
 
 2. Questions by country
 What coffee is from Brazil?
