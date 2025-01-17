@@ -58,7 +58,10 @@
     <li>Сoffee taste/flavors/aromas (вкусы кофе)</li>
 </ul>
 <h3>4.Classification tree for coffee taste:</h3>
-![taste1](https://github.com/user-attachments/assets/7804103d-4726-43bc-8604-b9e783807771)
+
+![taste1](https://github.com/user-attachments/assets/0053cfc0-0f08-4376-a8dd-dca4ed5a4f23)
+![taste1](https://github.com/user-attachments/assets/9e4984a1-902b-401b-a824-0233f5d76a2c)
+
 
 
 
