@@ -24,4 +24,8 @@
 </ul>
 <li>Select proximity measures for objects</li>
 <li>Implement a content-oriented recommendation system</li>
+<li>Implement filters by object attributes. Formation of data sampling step by step</li>
+<li>Develop questions and scenarios for dialogue systems</li>
+<li>Implementation of a dialogue system that interacts with the user in natural language (Russian) within a given topic with a limited set of conversation scenarios</li>
+
 
