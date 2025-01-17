@@ -87,3 +87,94 @@
   ![wporld](https://github.com/user-attachments/assets/15e31c3b-4df9-4dce-851b-e42b7f06c4ce)
   <li>Measure of proximity by tree – how close/far two objects are from each other. It is also associative</li>
 </ul>
+
+
+<h3>6.Content-oriented recommendation system (code in lab3_2.py)</h3>
+
+<h3>7.Filters by object attributes. Formation of data selection step by step (code in lab4_2.py)</h3>
+
+<h3>8.Questions and scenarios for dialogue systems:</h3>
+<ul>
+  <li>Roasting Questions (Вопросы по обжарке):</li>
+  <ul>
+    <li>What coffee is a dark roast?</li>
+    <li>What coffee is a light roast?</li>
+    <li>What coffee is a medium roast?</li>
+    <li>What coffee is not a dark roast?</li>
+    <li>What coffee is not a light roast?</li>
+    <li>What coffee is not a medium roast?</li>
+    <li>What coffee is not dark?</li>
+    <li>What coffee is not light?</li>
+    <li>What coffee is not medium?</li>
+    <li>What coffee is not light, dark roast?</li>
+    <li>What coffee is not light and dark roast?</li>
+  </ul>
+</ul>
+1. Roasting Questions
+
+
+
+What coffee is not dark?
+What coffee is not light?
+What coffee is not medium?
+What coffee is not light, dark roast?
+What coffee is not light and dark roast?
+
+What coffee is not light, medium roast?
+
+What coffee is not light and medium roast?
+
+What coffee is not medium, dark roast?
+What coffee is not medium and dark roast?
+What coffee is not medium, light roast?
+What coffee is not medium and light roast?
+What coffee is not dark, medium roast?
+What coffee is not dark and medium roast? What coffee is not dark, light roast?
+What coffee is not dark and light roast?
+What coffee is medium and dark roast?
+
+2. Questions by country
+What coffee is from Brazil?
+What coffee is from Colombia?
+What coffee is from Sumatra?
+What coffee is from Kenya?
+What coffee is from Ethiopia?
+What coffee is from Indonesia?
+What coffee is from Rwanda?
+What coffee is from Costa Rica?
+What coffee is from Mexico?
+What coffee is from Guatemala?
+What coffee is from Vietnam?
+What coffee is from Uganda?
+What coffee is from Uganda, Brazil, Vietnam?
+What coffee is from Uganda and Brazil and Vietnam?
+What coffee is not from {country / country entered by user}?
+
+3. Questions by variety
+What coffee is not robusta?
+What coffee is not arabica?
+What coffee is robusta?
+What coffee is arabica?
+
+4. Questions about weight
+Which coffee weighs more than {user enters weight}?
+Which coffee weighs less than {user enters weight}?
+Which coffee weighs between {user enters weight} and {user enters weight}?
+Which coffee weighs no more than {user enters weight}?
+Which coffee weighs no less than {user enters weight}?
+
+Which coffee has the flavor {user enters flavor}?
+Which coffee has the flavor {user enters flavor} or the flavor {user enters flavor} or …?
+Which coffee does not have the flavors {user enters flavors}?
+Which coffee is from {user enters country /country}?
+
+Which coffee has the flavor {user enters flavor} and the flavor {user enters flavor} and …?
+Which coffee does not have the flavor {user enters flavors} or the flavor {user enters flavors}?
+
+Can you display the search results?
+Can you re-enter the data?
+Can you shorten the list to {number of ingredients}?
+Bring me non-dark coffee
+Bring me non-dark blends
+Find me coffee from Ethiopia [and] non-dark roast
+Find me coffee from Ethiopia, extra large pack
