@@ -170,3 +170,4 @@
   </ul>
 </ul>
 
+<h3>9.Dialogue system that interacts with the user in natural language (Russian) within a given topic with a limited set of conversation scenarios (code in lab6.py)</h3>
