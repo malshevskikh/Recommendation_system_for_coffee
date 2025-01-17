@@ -78,11 +78,12 @@
 
 
 
-<h3>5.Measures of proximity::</h3>
+<h3>5.Measures of proximity:</h3>
 <ul>
-    <li>Number of grams in a package of coffee</li>
-    <li>Degree of roasting</li>
-    <li>Geographical location of coffee growing, comparison of how close they are to the countries of growth</li>
-    ![wporld](https://github.com/user-attachments/assets/15e31c3b-4df9-4dce-851b-e42b7f06c4ce)
-    <li>Measure of proximity by tree – how close/far two objects are from each other. It is also associative</li>
+  <li>Number of grams in a package of coffee</li>
+  <li>Degree of roasting</li>
+  <li>Geographical location of coffee growing, comparison of how close they are to the countries of growth</li>
+  
+  ![wporld](https://github.com/user-attachments/assets/15e31c3b-4df9-4dce-851b-e42b7f06c4ce)
+  <li>Measure of proximity by tree – how close/far two objects are from each other. It is also associative</li>
 </ul>
