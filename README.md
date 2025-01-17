@@ -11,8 +11,7 @@
 
 <h2>Lab tasks on the subject "Artificial Intelligence Systems":</h2>
 <ul>
-  <li>Select a topic for the recommender system (Coffee)</li>
-  <li>Create a dataset with a minimum of 25 objects</li>
+  <li>Select a topic for lab</li>
   <li>Create a dataset with a minimum of 25 objects</li>
   <li>Select the attributes by which objects will be compared</li>
   <ul>
@@ -26,5 +25,23 @@
   <li>Implement filters by object attributes. Formation of data sampling step by step</li>
   <li>Develop questions and scenarios for dialogue systems</li>
   <li>Implementation of a dialogue system that interacts with the user in natural language (Russian) within a given topic with a limited set of conversation scenarios</li>
+</ul>
+
+<h2>Задачи лабораторной работы по предмету "Системы Искусственного Интеллекта":</h2>
+<ul>
+  <li>Выбрать тематику для лабораторной работы</li>
+  <li>Создать/найти датасет с минимально колличеством в 25 объектов</li>
+  <li>Выбрать признаки, по которым объекты будут сраниваиться</li>
+  <ul>
+      <li>1 бинарный признак</li>
+      <li>2 числовых признака</li>
+      <li>1 не приводимый к числовому признак</li>
+  </ul>
+  <li>Создать иерархию (классификацию) объектов выбранной тематики, в виде дерева с минимальной высотой 4</li>
+  <li>Выбрать меры близости для объектов</li>
+  <li>Создать контент-ориентированную рекомендательную систему</li>
+  <li>Создать фильтры по признакам объектов. Формирование выборки данных поэтапно</li>
+  <li>Создать вопросы и сценарии для диалоговой системы</li>
+  <li>Создать диалоговую систему, которая взаимодействует на естественном языке (русском) в рамках заданной тематики с ограниченным набором сценариев беседы</li>
 </ul>
 
