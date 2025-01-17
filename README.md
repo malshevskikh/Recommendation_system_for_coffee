@@ -23,5 +23,5 @@
   <li>Create a hierarchy (classification) of objects of the selected subject, in the form of a tree with a minimum height of 4</li>
 </ul>
 <li>Select proximity measures for objects</li>
-<li>Implement code that compares objects based on features and proximity measures. Implement sorting of objects by a selected feature.</li>
+<li>Implement a content-oriented recommendation system</li>
 
