@@ -120,50 +120,53 @@
     <li>What coffee is medium and dark roast?</li>
   </ul>
   <li>Questions by country (Вопросы про страны):</li>
+  <ul>
+    <li>What coffee is from Brazil?</li>
+    <li>What coffee is from Colombia?</li>
+    <li>What coffee is from Sumatra?</li>
+    <li>What coffee is from Kenya?</li>
+    <li>What coffee is from Ethiopia?</li>
+    <li>What coffee is from Indonesia?</li>
+    <li>What coffee is from Rwanda?</li>
+    <li>What coffee is from Costa Rica?</li>
+    <li>What coffee is from Mexico?</li>
+    <li>What coffee is from Guatemala?</li>
+    <li>What coffee is from Vietnam?</li>
+    <li>What coffee is from Uganda?</li>
+    <li>What coffee is from Uganda, Brazil, Vietnam?</li>
+    <li>What coffee is from Uganda and Brazil and Vietnam?</li>
+    <li>What coffee is not from {country / country entered by user}?</li>
+  </ul>
+  <li>Questions by variety (Вопросы по сорту):</li>
+  <ul>
+    <li>What coffee is not robusta?</li>
+    <li>What coffee is not arabica?</li>
+    <li>What coffee is robusta?</li>
+    <li>What coffee is arabica?</li>
+  </ul>
+  <li>Questions about weight (Вопросы о весе):</li>
+  <ul>
+    <li>Which coffee weighs more than {user enters weight}?</li>
+    <li>Which coffee weighs less than {user enters weight}?</li>
+    <li>Which coffee weighs between {user enters weight} and {user enters weight}?</li>
+    <li>Which coffee weighs no more than {user enters weight}?</li>
+    <li>Which coffee weighs no less than {user enters weight}?</li>
+    <li>Which coffee has the flavor {user enters flavor}?</li>
+    <li>Which coffee has the flavor {user enters flavor} or the flavor {user enters flavor} or …?</li>
+    <li>Which coffee does not have the flavors {user enters flavors}?</li>
+    <li>Which coffee is from {user enters country /country}?</li>
+    <li>Which coffee has the flavor {user enters flavor} and the flavor {user enters flavor} and …?</li>
+    <li>Which coffee does not have the flavor {user enters flavors} or the flavor {user enters flavors}?</li>
+  </ul>
+  <li>General questions and requests (Общие вопросы и запросы):</li>
+  <ul>
+    <li>Can you display the search results?</li>
+    <li>Can you re-enter the data?</li>
+    <li>Can you shorten the list to {number of ingredients}?</li>
+    <li>Bring me non-dark coffee</li>
+    <li>Bring me non-dark blends</li>
+    <li>Find me coffee from Ethiopia [and] non-dark roast</li>
+    <li>Find me coffee from Ethiopia, extra large pack</li>
+  </ul>
 </ul>
 
-2. Questions by country
-What coffee is from Brazil?
-What coffee is from Colombia?
-What coffee is from Sumatra?
-What coffee is from Kenya?
-What coffee is from Ethiopia?
-What coffee is from Indonesia?
-What coffee is from Rwanda?
-What coffee is from Costa Rica?
-What coffee is from Mexico?
-What coffee is from Guatemala?
-What coffee is from Vietnam?
-What coffee is from Uganda?
-What coffee is from Uganda, Brazil, Vietnam?
-What coffee is from Uganda and Brazil and Vietnam?
-What coffee is not from {country / country entered by user}?
-
-3. Questions by variety
-What coffee is not robusta?
-What coffee is not arabica?
-What coffee is robusta?
-What coffee is arabica?
-
-4. Questions about weight
-Which coffee weighs more than {user enters weight}?
-Which coffee weighs less than {user enters weight}?
-Which coffee weighs between {user enters weight} and {user enters weight}?
-Which coffee weighs no more than {user enters weight}?
-Which coffee weighs no less than {user enters weight}?
-
-Which coffee has the flavor {user enters flavor}?
-Which coffee has the flavor {user enters flavor} or the flavor {user enters flavor} or …?
-Which coffee does not have the flavors {user enters flavors}?
-Which coffee is from {user enters country /country}?
-
-Which coffee has the flavor {user enters flavor} and the flavor {user enters flavor} and …?
-Which coffee does not have the flavor {user enters flavors} or the flavor {user enters flavors}?
-
-Can you display the search results?
-Can you re-enter the data?
-Can you shorten the list to {number of ingredients}?
-Bring me non-dark coffee
-Bring me non-dark blends
-Find me coffee from Ethiopia [and] non-dark roast
-Find me coffee from Ethiopia, extra large pack
