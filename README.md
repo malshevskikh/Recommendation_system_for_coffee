@@ -9,6 +9,18 @@
   <br/>
 </div>
 
-<h2>Lab task on the subject "Search systems":</h2>
-
+<h2>Lab tasks on the subject "Artificial Intelligence Systems":</h2>
+<ul>
+  <li>Select a topic for the recommender system (Coffee)</li>
+  <li>Create a dataset with a minimum of 25 objects</li>
+  <li>Create a dataset with a minimum of 25 objects</li>
+  <li>Select the attributes by which objects will be compared</li>
+  <ul>
+      <li>1 binary attribute</li>
+      <li>2 numerical attributes</li>
+      <li>1 non-numeric attribute</li>
+  </ul>
+  <li>Create a hierarchy (classification) of objects of the selected subject, in the form of a tree with a minimum height of 4</li>
+</ul>
+<li>Select proximity measures for objects</li>
 
