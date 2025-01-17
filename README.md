@@ -48,6 +48,20 @@
 
 <h2>Results:</h2>
 <h3>1.Topic - Coffee</h3>
-<h3>2.Dataset (.csv)</h3>
+<h3>2.Dataset in russian(in coffee_dataset.csv)</h3>
+<h3>3.Coffee attributes:</h3>
+<ul>
+    <li>Coffee variety (сорт кофе)</li>
+    <li>Package weight (in grams) (вес упаковки с кофе в граммах)</li>
+    <li>Roast level (light, medium, dark) (степень прожарки свтелая, средняя, темная)</li>
+    <li>Country of coffee growing (страна произростания кофе)</li>
+    <li>Сoffee taste/flavors/aromas (вкусы кофе)</li>
+</ul>
+<h3>4.Classification tree for coffee taste:</h3>
+![taste1](https://github.com/user-attachments/assets/7804103d-4726-43bc-8604-b9e783807771)
+
+
+
+
 
 
