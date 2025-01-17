@@ -57,14 +57,22 @@
     <li>Country of coffee growing (страна произростания кофе)</li>
     <li>Сoffee taste/flavors/aromas (вкусы кофе)</li>
 </ul>
-<h3>4.Classification tree for coffee taste:</h3>
+<h3>4.Hierarchy (classification) of for coffee taste:</h3>
+<h4>Pie chart of taste (in russian):</h4>
 
-![taste1](https://github.com/user-attachments/assets/0053cfc0-0f08-4376-a8dd-dca4ed5a4f23)
 ![taste1](https://github.com/user-attachments/assets/9e4984a1-902b-401b-a824-0233f5d76a2c)
+<h4>Pie chart of taste (in english):</h4>
 
+<img width="793" alt="taste2" src="https://github.com/user-attachments/assets/e8a5e590-a2a3-40e3-8463-a055a09c5ab6" />
+<h4>Classification tree (in russian):</h4>
 
+<img width="1183" alt="tree1" src="https://github.com/user-attachments/assets/d45400a0-6470-4a38-832b-827b4c6c73b0" />
 
+<h5>Part №1:</h5>
 
+<img width="1283" alt="tree_part1" src="https://github.com/user-attachments/assets/64427a03-cc68-4d44-a0b2-fbc0e37469bb" />
 
+<h5>Part №2:</h5>
 
+<img width="1179" alt="tree_part2" src="https://github.com/user-attachments/assets/ee859b14-0fda-47d5-8340-738187b4767f" />
 
